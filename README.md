@@ -1,10 +1,14 @@
- <h1 align='center'>Hi! :wave:</h1>
- <h2 align='center'>My name is Vitor Hugo Nakai</h2>
- <h3 align='center'>I'm a javascript/typescript & PHP developer.</h3>
- <p align='center'>I'm from Brazil, living in Pederneiras and currently working at Timecloud LTDA.</p>
- <p align='center'>You can find me on  <a href="https://twitter.com/vhnakai">Twitter</a>.</p>
- <h3 align='center'> always focusing on coding. </3> 
- <br/>
+# Hi! :wave:
+## My name is Vitor Hugo Nakai
+ [![Twitter Badge](https://img.shields.io/badge/-@vhnakai-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vhnakai)](https://twitter.com/vhnakai) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Hugo%20Nakai-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-hugo-nakai/)](https://www.linkedin.com/in/vitor-hugo-nakai/) 
+### I'm a javascript/typescript & PHP developer
+I'm from Brazil, living in Pederneiras and currently working at Timecloud LTDA.
+
+You can find me on  <a href="https://twitter.com/vhnakai">Twitter</a>
+
+### always focusing on coding.
+
  <img  src="https://media1.tenor.com/images/d737faef15d4e979a385cdb1e540c8ef/tenor.gif?itemid=13247664" width="250px"/>
 
 ## &#x1f4c8; GitHub Stats 🔭
