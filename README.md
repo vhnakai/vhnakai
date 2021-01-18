@@ -3,13 +3,15 @@
  [![Twitter Badge](https://img.shields.io/badge/-@vhnakai-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vhnakai)](https://twitter.com/vhnakai) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Hugo%20Nakai-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-hugo-nakai/)](https://www.linkedin.com/in/vitor-hugo-nakai/) 
 ### I'm a javascript/typescript & PHP developer
-I'm from Brazil, living in Pederneiras and currently working at Timecloud LTDA.
+
+I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using PHP, JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Gostack at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.
+I'm from Brazil, living in Pederneiras.
 
 You can find me on  <a href="https://twitter.com/vhnakai">Twitter</a>
 
 ### always focusing on coding.
 
- <img  src="https://media1.tenor.com/images/d737faef15d4e979a385cdb1e540c8ef/tenor.gif?itemid=13247664" width="250px"/>
+ <img  src="https://media1.tenor.com/images/d737faef15d4e979a385cdb1e540c8ef/tenor.gif?itemid=13247664" width="150px"/>
 
 ## &#x1f4c8; GitHub Stats 🔭
 
