@@ -17,7 +17,7 @@ You can find me on  <a href="https://twitter.com/vhnakai">Twitter</a>
 
 
 <a href="https://github.com/vhnakai/vhnakai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhnakai&hide=java,html, php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhnakai&hide=java,html,php,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
