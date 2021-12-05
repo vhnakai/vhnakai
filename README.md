@@ -1,6 +1,6 @@
 # Hi! :wave:
 ## My name is Vitor Hugo Nakai
- [![Twitter Badge](https://img.shields.io/badge/-@vhnakai-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vhnakai)](https://twitter.com/vhnakai) 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Hugo%20Nakai-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-hugo-nakai/)](https://www.linkedin.com/in/vitor-hugo-nakai/) 
 ### I'm a javascript/typescript & PHP developer
 
